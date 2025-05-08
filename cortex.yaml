@@ -3,7 +3,7 @@ info:
   title: monster-chaotic-nymph
   x-cortex-tag: monster-chaotic-nymph
   x-cortex-custom-metadata:
-    alignment: chaotic-evil
+    alignment: chaotic-good
     type: fey
     challenge_rating: 3
     legendary: false
