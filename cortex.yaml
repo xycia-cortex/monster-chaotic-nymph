@@ -12,4 +12,4 @@ info:
   x-cortex-git:
     github:
       repository: xycia-cortex/monster-chaotic-nymph
-      alias: github-token
+      alias: github-token-test
